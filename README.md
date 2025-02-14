@@ -1,4 +1,4 @@
-# ChatGPT 中文版：国内访问指南~（无需翻墙，支持 GPT-4、GPT-4o、o1和o3、DeepSeek R1）【2025/02/14】
+# ChatGPT 中文版：国内访问指南~（无需翻墙，支持 GPT-4、GPT-4o、o1和o3、DeepSeek R1）【2025/02/15】
 
 在国内轻松使用**ChatGPT 中文版**，**无需翻墙，全面支持 GPT-4、GPT-4o、o1、o3 和 DeepSeek R1 及中文版功能**。   
 本指南提供详尽的**ChatGPT 中文版使用指南**，包括国内可用的**ChatGPT 镜像网站**推荐和详细操作教程，助您快速上手 ChatGPT。
