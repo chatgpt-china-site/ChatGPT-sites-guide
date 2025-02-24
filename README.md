@@ -1,11 +1,11 @@
-# ChatGPT 中文版：国内访问指南~（无需翻墙，支持 GPT-4、GPT-4o、o1和o3、DeepSeek R1）【2025/02/20】
+# ChatGPT 中文版：国内访问指南~（无需翻墙，支持 GPT-4、GPT-4o、o1和o3、DeepSeek R1）【2025/02/25】
 
 在国内轻松使用**ChatGPT 中文版**，**无需翻墙，全面支持 GPT-4、GPT-4o、o1、o3 和 DeepSeek R1 及中文版功能**。   
 本指南提供详尽的**ChatGPT 中文版使用指南**，包括国内可用的**ChatGPT 镜像网站**推荐和详细操作教程，助您快速上手 ChatGPT。
 
-**ChatGPT 中文版**：**[www.yixiaai.com](https://www.yixiaai.com)**
+**ChatGPT 中文版**：**[chat.yixiaai.com](https://chat.yixiaai.com)**
 
-**ChatGPT 镜像网站**：**[chat.lify.vip](https://chat.lify.vip)**
+**ChatGPT 镜像网站**：**[chat.lify.vip](https://www.yixiaai.com)**
 
 ---
 
@@ -23,10 +23,10 @@
 
 以下是精选的国内优质**ChatGPT 中文版镜像网站**，无需翻墙即可使用：
 
-1. **一下AI ([www.yixiaai.com](https://www.yixiaai.com/))**   
+1. **一下AI ([chat.yixiaai.com](https://chat.yixiaai.com/))**   
    **ChatGPT中文版**，提供支持 GPT-4、4o、o1、o3和 DeepSeek R1 的全面服务，包含 AI绘画、AI插件、AI助手、AI PPT功能，使用简便。
 
-2. **AI智慧岛 ([chat.lify.vip](https://chat.lify.vip/))**  
+2. **AI智慧岛 ([chat.lify.vip](https://www.yixiaai.com/))**  
    **ChatGPT镜像网站**，多功能平台，支持 GPT-4、4o、o1、o3和 DeepSeek R1 ，适合各类用户需求。
 
 3. **AI智绘 ([guide1.lanjing.ai](https://guide1.lanjing.ai/))**  
